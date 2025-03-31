@@ -1,32 +1,54 @@
-Hello Mohammad Javad,
+# 🎓 5-Day Gen AI Intensive – Day 1 Assignments
 
-🎒 Today’s Assignments
+Welcome to Day 1 of the **5-Day Generative AI Intensive**! Here's what to complete today:
 
-1. Complete the Intro Unit – “Foundational Large Language Models & Text Generation”:
+---
 
-Listen to the summary podcast episode for this unit.
-To complement the podcast, read the “Foundational Large Language Models & Text Generation” whitepaper. 
-2. Complete Unit 1 – “Prompt Engineering”:
+## ✅ Today’s Assignments
 
-Listen to the summary podcast episode for this unit.
-To complement the podcast, read the “Prompt Engineering” whitepaper.
-Complete these codelabs on Kaggle:
-Prompting fundamentals
-Evaluation and structured data
-Make sure you phone verify your Kaggle account before starting, it's necessary for the codelabs.
-Want to have an interactive conversation? Try adding the whitepapers to NotebookLM. 
-💡 What You’ll Learn
+### 1. Complete the Intro Unit – *“Foundational Large Language Models & Text Generation”*:
 
-Today you’ll explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. You’ll also get trained in the art of prompt engineering for optimal LLM interaction and evaluating LLMs. 
+- 🎧 Listen to the [summary podcast episode](https://notifications.googleapis.com/email/redirect?t=AFG8qyX9OH2i_SwkJXXyD7ThIIj9HfN8pvCvF54y3sTl7FwEBkN47TRf7tkGZ-Ier-F2cCCE1SsywAVQztFZ4pXYddKXPWBjbbpRujFwg04pTQBTRq8_iSOB-V61LDjln9SYfjWIdq-thdW_veDV8pX-rcZGs1d1z3ZqSu9J5tzbd8e_w9ine3P7e-XA3YtojiicHc75CmlWF1hEZ-7zve6GqFi7f99QfvTHYpFieeBmmVQK8KTvfvgRe0pMPc0oMg&r=eJzLKCkpKLbS1y8vL9erzC8tKU1K1UvOz9UvTyxJzrAvs_VLNPY3CchOKtANVcvJLC6xDfApdEsM8Uw3ya0sja_09iooc7MIdzXySkt0N812Ly3Ld1XLzEtJrbA1BADlDyAU&s=ALHZ2r5ltkdgayPhOwGI8Ob_lVzm)
 
-The first codelab will walk you through getting started with the Gemini 2.0 API and cover several prompt techniques including how different parameters impact the prompts. In the second codelab, you will also learn how to evaluate the response of LLMs using autoraters and structured output.
+- 📄 Read the [whitepaper: “Foundational Large Language Models & Text Generation”](https://notifications.googleapis.com/email/redirect?t=AFG8qyUysth1hClRRc8ilg1bxABpbm0uk2PnoWobFrcU_qMHtxRyoyK5Nn14SCG23yuirSU2HhknrnCAyWLYS3BU3iKd3lElRuBKboR8fms1xB-1qn7zvvutQES9HwC_1gnV8V6aGlS7EVeqoSdn9_HCajY62kGlgb6Ixt_PhkY3ouW_cuU01Zs5D7gIdrSsGlGXjg9xr7cV8KCzPKjbNMDQfvhE9u3bhGkAh9mDTEnK7_5ydDWSWWAOvmfGb9ZY-A&r=eJwdyVEOgCAIANATof_dhiWiC4EZjY7f1vt9I8Lvo9bMLBcyC5XTVs0xgxydNnR7tGFMUxQQWYDaIOgNYFLa_3yx_hrt&s=ALHZ2r6Wlld7yxPZalmaXVEKsNZq)
 
-📋 Reminders
+---
 
-Tomorrow at 11:00 AM PT,  Paige Bailey is hosting the first livestream on our YouTube channel to discuss the assignments with the course authors and other special guests from Google. Tomorrow’s guests are Warren Barkley, Logan Kilpatrick, Kieran Milan, Anant Nawalgaria, Irina Sigler and Mat Velloso.
-Discord is the best place to ask questions – specifically in the #5dgai-question-forum channel. In addition to other participants, several Googlers are there to help. During the livestream, we'll also pick some questions from Discord to discuss. You'll get Kaggle swag if your question is chosen!
-We also have a troubleshooting guide for the codelabs. Be sure to check there for solutions to common problems.
-We want this course community to be positive and supportive. Please follow Kaggle’s community guidelines found here.
-Happy learning and see you tomorrow!
+### 2. Complete Unit 1 – *“Prompt Engineering”*:
 
-The Kaggle Team
+- 🎧 Listen to the [summary podcast episode](https://notifications.googleapis.com/email/redirect?t=AFG8qyXdU5HfVqWBfKaxh75i8wVRSs9VMRPosAGMdgaOyxIzI6XhBplxHz4zhN3hF4406sPQO-ysAM4Pb-GFWDG_CxoSLSJpqu4B4cNgrZWy3TrFSta_f-KMGHWlQtrLO4lDPyyAhdqDinwLgDyJIjRXB2YTc7YqvZNParP4HdlVbwmoPn2GWCuw-6ZTJ4qf1k4N5lwWr6ZYPimKgw5EGS7qbcYTm0SV9-YGQ8EtLNKDX6HVB05mLrYfPngwoXqMgQ&r=eJzLKCkpKLbS1y8vL9erzC8tKU1K1UvOz9UvTyxJzrAvs3V2K4kwiKr0CXaMVMvJLC6xDfApdEsM8Uw3ya0sja_09iooc7MIdzXySkt0N812Ly3Ld1XLzEtJrbA1AgDrbSAy&s=ALHZ2r73qmW4RHe48OCbR7ID_I3L)
+
+- 📄 Read the [whitepaper: “Prompt Engineering”](https://notifications.googleapis.com/email/redirect?t=AFG8qyWLaUzq5vv12w_5itxVkEy_QN0nOU-iMR-IiTF7dISL9ga5TGUuZ-C3oQdxHEC8eQ-L1oqKgb2qDN5SqTP9MjzictRauI5O4tgC96C7-88FSZqcxLDbHj_BTv-1bxA0aNkvK3mGLMLwvszQtI55I9zR46sdN0ld9JUS2WASorrqetxxjAI--DoWkpwqdwuFmsSRQjVk1qUNoOuezfliQcOpU2bsy5VwDK_V-92kxt03_XdqVhpLgyFIjIkc0Q&r=eJwFwUEKwCAMBMAXae79jZQlBmtc0kC-78zM5P-IVFVfQ_VDf8-WmpbgIKIxzmY2uJoDYa4XDAUUJg&s=ALHZ2r6e1puGOid2n_9OUSWzdUgD)
+
+- 💻 Complete the following Kaggle codelabs:
+  - [Prompting fundamentals](https://notifications.googleapis.com/email/redirect?t=AFG8qyXP_i-GXTxeXtOHUkkKJNkvUhtoJYbOjD4RBhn_YVcQXf8e9IqLimw0a-SO0Blh9h8wyQ7hpaaNgdCQsCgAkmTmGDyuVZv3vrEQ2Kufsv0Aqc1NGidAU6Wof6h6pbEqdKdFR_sjhfQf2q3UX9QOjfr2oowQNC5TUpfplSCQG339JYn9VDSZeloPZIh4ihZoqZhIwncM8-I9ORQTnAI2P9Co_hkGpEFWHk-47g-_LcdSQFxKryEmKJPnqUStVQ&r=eJwFwVEKwCAIANATlex3t5ESi3KKCbLb996IsPMCZGZdyLypNhVo2gkEfc0zyAk6_uUp5ioW8-MLJ5cUMw&s=ALHZ2r6TSuDQfB8hPnAnbrirSZrw)
+  - [Evaluation and structured data](https://notifications.googleapis.com/email/redirect?t=AFG8qyXNI2m5NCxSWaPl44lzZXwVFp8w4kkK56mpx2noLJdCa-WP2xtsHNN4JHI6AtmykdSe-kt0GlaTaGcznhGZHQRd8Qk1Y5EsyHVqXTFAa99LSmUyITekV2dGttqxWdN247pbYbhlOHDdWxlXAorI5heS7b_mT_p94LewFq9nXT2SKJT6CiI4B3GAy5_gJafvML9BteJZxPB0MiEGy4ol6I2UbJpsR0XSMKRf9Fzsmm8Sh22AAtbfGhzfy2MX0g&r=eJwFwcENwCAIAMCJkPTbbYgQNVoxCDXdvnfVfe0b8ZyTOpUyJGV9MCsLPmS97SomyPTBBfLSCPKmE2gybLfIHiYMGr7Cf1-mHUs&s=ALHZ2r54BLjFunig0QJj_c5eiYUn)
+
+- 📱 Make sure your [Kaggle account is phone verified](https://notifications.googleapis.com/email/redirect?t=AFG8qyWN9W8RyFev_f6lR18Br1GUNjDPFygiHgOX6oUb42flct5aJdxCFRB8N3q_oYM8Dgruf59IKk7vziqOnHmr8l4lPaWSCqqN2HkYLfNh2cCscTAOyBmywIM4o5yLDw5m1mk2ef0x2iaMeiUbVp5eQJK1CS9_SiPbI1fO6nEzWIXkMeojFmS6ewLIqelx2dmxsCVQ8MT3V-k7lVITF---CR64qKdJxcPLlyn_RrA0VFwflcVSK7QXTqTnB31-A&r=eJzLKCkpKLbS1y8vL9fLTkxPz0nVS87P1S9OLSnJzEsvBgC6DwvX&s=ALHZ2r7qKSUuj_t0LVoMzDBBKZew)
+
+- 🤖 Try the whitepapers in [NotebookLM](https://notifications.googleapis.com/email/redirect?t=AFG8qyWnCuz8CTUNYKn7OnRGYUmiKDS63uP7r9wcGfrk1sUgmMKI4QrWKlwqyjKGcXvk2NUbasEC7nZ5T5YN2d52-HRfReKxAj7pXZSB2f3oJ07qa6U3_EN_xP0SZNl-PBdtBiQOpXmO6YSSB3RbrIGuKdqW1O17k49JWeFpwCcbXh46aSVEtyXOeKE952GhkkWWdT3aJqGq1vVKUc_Fzkmu3Nvc8vx6FJvtxPucB1vaCKSKWYABbMzVlwutPxPCJg&r=eJzLKCkpKLbS18_LL0lNys_PzsnVS8_PT89J1UvOz9W3zy_KTM_MS8yJL0pNSy1KLbLNAKtXNXIDovLyciTFqkbGagU5mbaGABuTHe8&s=ALHZ2r67Izc5-qOWCTxicgeMtRWz)
+
+---
+
+## 💡 What You’ll Learn
+
+- Evolution of LLMs, from transformers to fine-tuning and inference acceleration  
+- Prompt engineering for better interaction with LLMs  
+- How to evaluate LLM responses effectively
+
+---
+
+## 📋 Reminders
+
+- 🕚 **Livestream Tomorrow at 11:00 AM PT** with [Paige Bailey](https://notifications.googleapis.com/email/redirect?t=AFG8qyVnRZ8Unp7A6_9dCCTPxeMZTHNUJUfuXspd8zm7LfkRIikRRJDi6chaX9l73ezwj0eeA7OOWOI3u0YjjnfIT151oc-4DaQDDEu-Rxf9yCuZbK98QRqRLeFcpqtc_IEswsdwXweJ_xMhr59fX10bB1C4zRUPw-RwCDkuO6EwIfvrpiDC3x5_ADSlLOFcRxjyuBKYMb5GnJvGj6ULha49Yocms_ggO2VyCXRP09xjpwxwXloXBGbxDjb8KypLmg&r=eJzLKCkpKLbS16_QS87P1XepzEvMzUwOT00KSMxMT7UvSk2LLy5Kti0pB5Kqpq7p-fnpOamq5s4l5cmJuQVAkeLUogIwP70IyEssLcnILwIAFnkecQ&s=ALHZ2r6ePmu3NaWx0fmfTYYPTtdp)
+
+- 💬 Use the [#5dgai-question-forum on Discord](https://notifications.googleapis.com/email/redirect?t=AFG8qyUVu3cd9402oQ47DAmE6kkEJ8jc4sDFAeApzXmXv7HaA1FYkRbMfzMXxmdPASUIhsbKf7jMfq6t9KxqyQZn9yQHUHwYOsjZh9etCR816zJUG7xXRr_XIxuXPRQiEN6JjPatANuDX3aVmhwbvvX26q_R7yGjHzAZ3R3eB2QQPoZntSXlRw7WQ4uyS4wQNqPku0botmRg1Xqp0uaD9zSy-cHHnl6LzojfsaKYYo3NB6qtFZf1tWPuWoHTiDVLkw&r=eJwFwQEKgCAQBMAfdbt65tlvQgWD0kj_TzNtrXceIuWaeXxly-OR3M7e6z2FBB1hLhliCjsBoUcI0RQGdVD6pD_jUBKb&s=ALHZ2r5ohTbz1wi_LW5a9FqvMufR)
+
+- 🧰 Check the [codelab troubleshooting guide](https://notifications.googleapis.com/email/redirect?t=AFG8qyWvE5DiDHEtYsnHZ0PAVN6FQ7h47q0AvaeDCFf3rJWqJnyl-kbbeTGPONZC_fAgfkRXJRTa87ejaAeqfF8chnmd04AlNqnzuqEej9GukPU-DawKoDfLN0sberoMBPDXKSkyxbjCb7kG77Ef_TZjzcE8VoxC265CozLcsPTjd9VkgMMtsjqajxtUjk6_nLUUGJIeeFmH4ce9wQOD_pZTT96RdSOBbBDiNxo3nCBenL6V6IQI_mC1yhn-vAv3yA&r=eJwFwVsSgCAIAMATIX53G1JSxwcFNE63b7e633Yg7r1Dp1IGhyQTk2TGSdqbVVbGTB9EcJX3HGxVxNsqQCvDRY_hD58qGiE&s=ALHZ2r5PWIEKCgObP-gd5W6ToLqP)
+
+- ✅ Be kind, and follow [Kaggle’s Community Guidelines](https://notifications.googleapis.com/email/redirect?t=AFG8qyUVNePuJci6IxYu6SAk8akD9YT6BI8lDmJmcIIMxgLapU46yMrnc7QCF1rgWHn_U0uYKqv2Mz0Tt6Ty-DE-KcRlmeYWF7cAvEXrrOvUKlq608nNdPBu0ane5-rx2C8IbO8tbsqCG6Sw8RbHL2sC6k6sIt7zcl9YZLDzi2Esw-1_e9pHnAqxAPNiz2B8DSkzbYrDvcyIgu_q2GnHoSlQogu5mLZgzBW2J22b3lo5p0TIO1otgGiHx8hDL0p-5A&r=eJzLKCkpKLbS1y8vL9fLTkxPz0nVS87P1Qfi3NK8zJJK3fTSzJTUnMy81GIAZgsQoQ&s=ALHZ2r5_EFxNXB1VmYGerLvgkckC)
+
+---
+
+**Happy learning and see you tomorrow!**  
+*— The Kaggle Team*
