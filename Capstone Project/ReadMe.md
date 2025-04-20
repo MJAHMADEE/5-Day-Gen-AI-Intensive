@@ -1,3 +1,4 @@
+[![View on Kaggle](https://img.shields.io/badge/View%20on-Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/mohammadjavadahmadi/academic-research-assistant-ara)
 
 # 🧠 Academic Research Assistant (ARA) – Gen AI Capstone Project
 
